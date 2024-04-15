@@ -1,0 +1,17 @@
+commit 343962972de86688c7afc3a76ed4f95a3cf72277
+Author: unknown <dimitri.petrovski2@gmail.com>
+Date:   Mon Apr 15 21:01:49 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 06924ff62e122dee1d9d6621bcdf3dadd11dd049
+Author: unknown <dimitri.petrovski2@gmail.com>
+Date:   Mon Apr 15 20:32:45 2024 +0200
+
+    Add starter code
+
+commit d1c9bf8f53b802d1cc3a3fdc57cc7eed9efa5096
+Author: unknown <dimitri.petrovski2@gmail.com>
+Date:   Mon Apr 15 20:16:30 2024 +0200
+
+    Initial commit
